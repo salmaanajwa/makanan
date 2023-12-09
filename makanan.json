@@ -5,6 +5,7 @@
   "nama_makanan":"Sushi",
   "asal":"Jepang",
   "bahan_utama":"Ikan",
+  "jenis_makanan":"Main Course",
   "harga":"75000",
   "photo_url":"https://ik.imagekit.io/dcjlghyytp1/2020/05/sushi-354628_1920.jpg?tr=f-auto"
 },
@@ -13,6 +14,7 @@
   "nama_makanan":"Rendang",
   "asal":"Indonesia",
   "bahan_utama":"Daging Sapi",
+  "jenis_makanan":"Main Course",
   "harga":"50000",
   "photo_url":"https://www.warisankuliner.com/gfx/recipes/temp_thumb-1658299943.jpg"
 },
@@ -21,6 +23,7 @@
   "nama_makanan":"Pad thai",
   "asal":"Thailand",
   "bahan_utama":"Mie beras",
+  "jenis_makanan":"Main Course",
   "harga":"100000",
   "photo_url":"https://www.recipetineats.com/wp-content/uploads/2020/01/Chicken-Pad-Thai_9-SQ.jpg"
 },
@@ -29,6 +32,7 @@
   "nama_makanan":"Lasagna",
   "asal":"Italia",
   "bahan_utama":"Pasta ",
+  "jenis_makanan":"Appetizer",
   "harga":"55000",
   "photo_url":"https://asset.kompas.com/crops/BcHjtjDE2xBgpiiVKQqQwx8rpUo=/0x14:1000x681/780x390/data/photo/2021/11/02/61807c84c862a.jpeg"
 },
@@ -37,6 +41,7 @@
   "nama_makanan":"Ramen",
   "asal":"Jepang",
   "bahan_utama":"Mie ramen",
+  "jenis_makanan":"Main Course",
   "harga":"82000",
   "photo_url":"https://asset-2.tstatic.net/travel/foto/bank/images/ramen-seirock-ya.jpg"
 },
@@ -45,14 +50,43 @@
   "nama_makanan":"Ayam Laksa",
   "asal":"Malaysia",
   "bahan_utama":"Mie Laksa",
+  "jenis_makanan":"Main Course",
   "harga":"65000",
   "photo_url":"https://img.kurio.network/n-hs2NTqwEQCus5FcIR-qyUiqXw=/320x320/filters:quality(80)/https://kurio-img.kurioapps.com/22/01/03/169e4b47-3e22-4438-9566-eaad5978fe75.jpe"
 },
 {
   "id_makanan":"7",
+  "nama_makanan":"Hotdog",
+  "asal":"Amerika Serikat",
+  "bahan_utama":"Sosis Sapi",
+  "jenis_makanan":"Main Course",
+  "harga":"60000",
+  "photo_url":"https://www.wikihow.com/images_en/thumb/0/09/Boil-a-Hot-Dog-Step-13-Version-3.jpg/v4-1200px-Boil-a-Hot-Dog-Step-13-Version-3.jpg"
+},
+{
+  "id_makanan":"8",
+  "nama_makanan":"Tom Yum",
+  "asal":"Thailand",
+  "bahan_utama":"Udang",
+  "jenis_makanan":"Main Course",
+  "harga":"80000",
+  "photo_url":"https://awsimages.detik.net.id/community/media/visual/2023/03/02/resep-tomyam-udang_43.jpeg?w=1200"
+},
+{
+  "id_makanan":"9",
+  "nama_makanan":"Pudding",
+  "asal":"Jepang",
+  "bahan_utama":"Susu",
+  "jenis_makanan":"Dessert",
+  "harga":"35000",
+  "photo_url":"https://asset-a.grid.id/crop/0x0:0x0/750x504/photo/2021/09/18/1d6142ec-f7a2-4c70-86a3-d83544b6-20210918035333.jpeg"
+},
+{
+  "id_makanan":"10",
   "nama_makanan":"Kebab",
   "asal":"Turki",
   "bahan_utama":"Daging Sapi",
+  "jenis_makanan":"Appetizer",
   "harga":"45000",
   "photo_url":"https://assets-pergikuliner.com/Xosjp97B4B8fN3ObxxfEw_m2mnQ=/fit-in/1366x768/smart/filters:no_upscale()/https://assets-pergikuliner.com/uploads/bootsy/image/12331/28cd575b-9d2b-33c3-aa12-91819e4f73cc.jpg"
 }
